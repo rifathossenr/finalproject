@@ -387,5 +387,37 @@ input[type="submit"]:hover {
     font-size: 50px;
 }
 
+/* footer css start */
 
+footer{
+    background-color: #300f2e; 
+}
+
+.footerbox1 ul{
+    display: flex;
+    gap: 30px;
+    font-size: 26px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.endText h1{
+    margin: 50px 0;
+    text-align: center;
+}
+
+
+
+
+.footerbox1{
+    margin: 50px 0;
+}
+
+
+.parantfoot .footerfelxbox h1{
+    padding: 50px;
+}
+
+/* footer css end */
 
