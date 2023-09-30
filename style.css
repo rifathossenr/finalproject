@@ -272,7 +272,7 @@ margin: 30px 0px;
 }
 
 .contactboxflex .box11{
-    background-color: red;
+    background-color: #157575;
     width: 400px;
     height: 600px;
     display: flex;
@@ -289,7 +289,7 @@ margin: 30px 0px;
 
 
 .contactboxflex .box22{
-    background-color: green;
+    background-color: #efefef;
     width: 400px;
     height: 600px;
 }
@@ -314,3 +314,9 @@ margin: 30px 0px;
     text-align: center;
 }
 /* contactUs css end */
+
+#update{
+    text-align: center;
+    margin: 80px 0px;
+    font-size: 50px;
+}
